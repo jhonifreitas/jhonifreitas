@@ -62,10 +62,19 @@ Want to know more about me? [Check out my portfolio.](https://jhonifreitas.githu
 ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=21B352)
 ![TypeScript Badge](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=21B352)
 ![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=21B352)
-![JQuery Badge](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=21B352)
 
 <details>
 <summary>More Skills</summary>
+
+<br>
+
+![Redis Badge](https://img.shields.io/badge/Lib-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=4B32C3)
+![Express Badge](https://img.shields.io/badge/Lib-Express-informational?style=flat&logo=express&logoColor=white&color=4B32C3)
+![JWT Badge](https://img.shields.io/badge/Lib-JWT-informational?style=flat&logo=jwt&logoColor=white&color=4B32C3)
+![Angular Universal Badge](https://img.shields.io/badge/Lib-Angular%20Universal-informational?style=flat&logo=angular-universal&logoColor=white&color=4B32C3)
+![ESLint Badge](https://img.shields.io/badge/Lib-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=4B32C3)
+![JQuery Badge](https://img.shields.io/badge/Lib-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=4B32C3)
+
 <br>
 
 ![Tailwind Badge](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwind-css&logoColor=white&color=E57CD8)
@@ -93,7 +102,7 @@ Want to know more about me? [Check out my portfolio.](https://jhonifreitas.githu
 <br>
 
 ![Docker Badge](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![Nginx Badge](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
+![Nginx Badge](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![NPM Badge](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![Yarn Badge](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=4AB197)
 ![Postman Badge](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)
