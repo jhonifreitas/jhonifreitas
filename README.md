@@ -43,7 +43,7 @@ Want to know more about me? [Check out my portfolio.](https://jhonifreitas.githu
 
 <br>
 
-![Redis Badge](https://img.shields.io/badge/Lib-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=4B32C3)
+![Redis Badge](https://img.shields.io/badge/Lib-Redis-informational?style=flat&logo=redis&logoColor=white&color=4B32C3)
 ![Express Badge](https://img.shields.io/badge/Lib-Express-informational?style=flat&logo=express&logoColor=white&color=4B32C3)
 ![JWT Badge](https://img.shields.io/badge/Lib-JWT-informational?style=flat&logo=jwt&logoColor=white&color=4B32C3)
 ![Angular Universal Badge](https://img.shields.io/badge/Lib-Angular%20Universal-informational?style=flat&logo=angular-universal&logoColor=white&color=4B32C3)
