@@ -12,21 +12,6 @@ Want to know more about me? [Check out my portfolio.](https://jhonifreitas.githu
 
 <br>
 
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/jhonifreitas">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonifreitas&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/jhonifreitas">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jhonifreitas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
 ## 💼 Skills
 
 ![Angular Badge](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=21B352)
@@ -89,3 +74,18 @@ Want to know more about me? [Check out my portfolio.](https://jhonifreitas.githu
 ![Toggl Badge](https://img.shields.io/badge/Tools-Toggl-informational?style=flat&logo=toggl&logoColor=white&color=4AB197)
 
 </details>
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/jhonifreitas">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonifreitas&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/jhonifreitas">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jhonifreitas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
+</a>
