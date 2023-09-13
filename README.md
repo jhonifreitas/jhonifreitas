@@ -75,6 +75,8 @@ Want to know more about me? [Check out my portfolio.](https://jhonifreitas.githu
 
 </details>
 
+<br>
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
