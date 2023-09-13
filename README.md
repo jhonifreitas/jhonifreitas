@@ -12,31 +12,6 @@ Want to know more about me? [Check out my portfolio.](https://jhonifreitas.githu
 
 <br>
 
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/jhonifreitas/portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonifreitas&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/jhonifreitas/portfolio-admin">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonifreitas&repo=portfolio-admin&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/jhonifreitas/portfolio-api">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonifreitas&repo=portfolio-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/jhonifreitas/plantapp">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jhonifreitas&repo=plantapp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
