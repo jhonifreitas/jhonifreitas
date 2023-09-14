@@ -6,7 +6,10 @@
 
 Hey there 👋
 
-I’m Jonathan, a Software Developer with more than 7 year of experience. Passionate to development Front-End and Back-End, ever willing to learn more and more, about this vast world of software's development.
+I’m Jonathan, a passionate and experienced professional with over 7 years in the software development industry.
+Specialized in building innovative web and mobile applications that meet client needs and provide exceptional user experiences.
+
+To continue honing my software development skills and deliver cutting-edge technological solutions that make a difference in the digital world. I am always open to new challenges and collaboration opportunities.
 
 Want to know more about me? [Check out my portfolio.](https://jhonifreitas.github.io/portfolio)
 
